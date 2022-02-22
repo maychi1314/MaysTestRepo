@@ -1,0 +1,20 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-color: #ccc;
+  font-family: Helvtica, Arial, sans-serif;
+}
+
+* {
+  border: none;
+  box-sizing: border-box;
+  outline: none;
+}
+
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
